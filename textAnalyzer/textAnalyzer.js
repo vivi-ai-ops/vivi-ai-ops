@@ -62,4 +62,3 @@ return {
 }
 
 // This challenge was suggested by ChatGPT
-//Author of the code: Vanessa Vergara
